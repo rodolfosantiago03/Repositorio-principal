@@ -237,6 +237,7 @@ body {
     
     .principal .text-and-button p {
         font-size: 40px;
+        width: 900px;
         color: #BBB;
         margin-top: 50px;
         margin-bottom: 15px;
