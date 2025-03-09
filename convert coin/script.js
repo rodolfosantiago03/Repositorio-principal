@@ -1,4 +1,4 @@
-const convertButton = document.querySelector(".convert-button") /// Botão converter ///
+const convertButton = document.querySelector(".convert-button") /// Botão converter ////
 const currencySelect = document.querySelector(".box-of-select-to-converted") // caixa com as seleçoes de moedas *//
 
 function convertValues(){
